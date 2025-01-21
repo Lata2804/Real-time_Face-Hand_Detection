@@ -8,7 +8,11 @@ This project demonstrates real-time detection of faces and hands using MediaPipe
 - Simple interface for starting the camera and stopping with a key press.
 
 ## Demo
-![Demo](https://via.placeholder.com/600x300?text=Demo+Image)  
+
+
+https://github.com/user-attachments/assets/87969550-c217-48ed-b39e-9a8601e2fc53
+
+
 *video of the app in action.*
 
 ## Technologies Used
