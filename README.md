@@ -10,6 +10,10 @@ This project demonstrates real-time detection of faces and hands using MediaPipe
 ## Demo
 
 
+https://github.com/user-attachments/assets/01e3b9aa-e144-49ab-a428-68edb1956c4f
+
+
+
 *video of the app in action.*
 
 ## Technologies Used
